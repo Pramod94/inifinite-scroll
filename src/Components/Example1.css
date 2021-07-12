@@ -1,0 +1,8 @@
+
+.scrollerWrapper{
+    height: 200px;
+    overflow: auto;
+    border: 5px solid lightsalmon;
+    width: fit-content;
+    min-width: 600px;
+  }

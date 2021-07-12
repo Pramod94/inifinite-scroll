@@ -1,0 +1,17 @@
+.content-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.image-wrapper {
+    position: relative;
+    width: 128px;
+    height: 128px;
+    background-color: lightgrey;
+}
+
+.image {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
